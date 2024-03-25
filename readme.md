@@ -48,3 +48,19 @@
 1. Прикріплені посилання на репозиторій goit-rdb-hw-03 та безпосередньо самі файли репозиторію архівом.
 
 2. Правильно написано всі 6 команд. SQL команди виконуються й повертають необхідні дані.
+
+### Результат виконаного ДЗ
+
+![Results](./assets/01-SQL-requests.png)
+
+![Results](./assets/02-SQL-requests.png)
+
+![Results](./assets/03-SQL-requests.png)
+
+![Results](./assets/04-SQL-requests.png)
+
+![Results](./assets/05-SQL-requests.png)
+
+![Results](./assets/06-SQL-requests.png)
+
+![Results](./assets/all-SQL-requests.png)
